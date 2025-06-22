@@ -2,8 +2,8 @@
 
 Welcome to **UltraPassGen**, a powerful wordlist generator written in Python. Designed for ethical hackers and cybersecurity learners, this tool helps you generate custom password lists using personal details and symbols for better brute-force testing.
 
-> 🎯 Developed by **Abdul Ali**  
-> 🎥 YouTube: [Coder Sameer](https://www.youtube.com/@codersameer)  
+> 🎯 Developed by **Sameer**  
+> 🎥 YouTube: [FireWall Eagle](https://www.youtube.com/@firewalleagle)  
 > ⚠️ For **educational purposes only**
 
 ---
@@ -29,7 +29,7 @@ You will be prompted to enter various personal and custom inputs. The script wil
 ---
 ### Termux and Linux Full Install and Setup
 ```
-apt update && apt upgrade && apt install python -y && apt install git -y && git clone https://github.com/mohdabdulali/Thanos.git && cd Thanos && python3 thanos.py
+apt update && apt upgrade && apt install python -y && apt install git -y && git clone https://github.com/firewalleagle/Thanos.git && cd Thanos && python3 thanos.py
 ```
 
 ### [TERMUX , KALI LINUX] Packege Install Comments
@@ -44,7 +44,7 @@ apt install python -y
 apt install git -y 
 ```
 ```
-git clone https://github.com/mohdabdulali/Thanos.git
+git clone https://github.com/firewalleagle/Thanos.git
 ```
 ```
 cd Thanos
@@ -72,7 +72,7 @@ This project is licensed under the **MIT License**. See [`LICENSE`](LICENSE) for
 If you find this tool helpful, please:
 
 - 🌟 Star the repo  
-- 🔔 Subscribe on YouTube → [Firewall Breaker](https://www.youtube.com/@codersameer)  
+- 🔔 Subscribe on YouTube → [Firewall Breaker](https://www.youtube.com/@firewalleagle)  
 - 💬 Share with your ethical hacking friends
 
 ---
@@ -83,12 +83,12 @@ This tool is made for **educational and legal penetration testing** purposes onl
 
 ## 📌 Contact Me  
 
-<a href="https://youtube.com/@codersameer">
+<a href="https://youtube.com/@firewalleagle">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
 </a>  
 <br>  
 
-<a href="https://github.com/mohdabdulali?tab=repositories">
+<a href="https://github.com/firewalleagle?tab=repositories">
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>  
 <br>
