@@ -49,7 +49,7 @@ def logo():
                          x:.   ...             .'..  .,
                              kl;'.              .,c
 
-{CYAN}        Created by Abdul Ali - YouTube: Coder Sameer {RESET}
+{CYAN}        Created by Sameer - YouTube: FireWall Eagle {RESET}
 """)
 
 def get_cleaned_list(string):
