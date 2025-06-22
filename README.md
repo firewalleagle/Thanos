@@ -72,7 +72,7 @@ This project is licensed under the **MIT License**. See [`LICENSE`](LICENSE) for
 If you find this tool helpful, please:
 
 - 🌟 Star the repo  
-- 🔔 Subscribe on YouTube → [Firewall Breaker](https://www.youtube.com/@firewalleagle)  
+- 🔔 Subscribe on YouTube → [Firewall Eagle](https://www.youtube.com/@firewalleagle)  
 - 💬 Share with your ethical hacking friends
 
 ---
